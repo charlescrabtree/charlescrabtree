@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @charlescrabtree (he/him)
-- 🌱 I’m currently learning ...backend web development
-- 📫 How to reach me ...https://www.linkedin.com/in/charles-crabtree/
-- 🧰 Tech Stack:
+Hi, I’m @charlescrabtree (he/him)
+
+I’m currently learning ...advanced React and Full-stack development
+
+You can reach me at https://www.linkedin.com/in/charles-crabtree/
+
+Tech Stack:
 Languages: JavaScript, HTML, CSS
 Frameworks/Libraries: React, Express, Node
 Databases: PostgreSQL, Supabase
